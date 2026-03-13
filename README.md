@@ -1,7 +1,17 @@
 # CaloriTracker
 
-A web application for tracking daily calorie and nutritional intake. Track meals throughout the day, set calorie goals, and visualize your dietary consumption with pie charts.
-When a new day starts simply delete from the day before, and get going again. It saves all data in browser, meaning every device is its own "user". 
+A privacy-first, offline-capable web app for tracking daily calories and macronutrients. Add meals and snacks, create and save custom foods and recipes, set and monitor daily calorie targets, and visualize intake with interactive pie charts. All data is stored locally in the browser (no account required), enabling fully offline use and per-device privacy. Food data is sourced from FRIDA (National Food Institute, DTU, v5.5, 2025). Built with Vue 3, Vite, and includes PWA support for installation and improved offline behavior.
+
+**Highlights**
+
+* Track meals by category (breakfast, lunch, dinner, snacks) and log portions quickly.
+* Create and save custom food items and recipe combinations.
+* Set daily calorie goals and monitor progress with nutritional summaries.
+* Macronutrient breakdowns and visual analytics via pie charts.
+* Offline-first: browser LocalStorage + PWA support; no server or account required.
+* Food dataset: FRIDA (National Food Institute, Technical University of Denmark).
+
+Can be accesed via the following url: https://rentfree-software.github.io/CalorieTracker/
 
 ## About
 
