@@ -15,16 +15,9 @@ Can be accesed via the following url: https://rentfree-software.github.io/Calori
 
 ## About
 
-CaloriTracker helps you monitor your daily food consumption and nutritional goals. The application features:
+Copyright © 2026 RentFree-software
 
-- **Track Food Items**: Add meals and snacks to breakfast, lunch, dinner, or snack categories
-- **Custom Recipes**: Create and save custom recipe combinations
-- **Custom Recipes**: Create and save custom food items
-- **Calorie Goals**: Set and monitor daily calorie targets
-- **Nutritional Summary**: View detailed macronutrient breakdowns, all available food items, imported from Food data (frida.fooddata.dk), version 5.5, 2025, National. Food Institute, Technical University of Denmark
-Food data made available by National Food Institute, Technical University of Denmark (frida.fooddata.dk)
-- **Visual Analytics**: Pie charts showing meal distribution and caloric intake
-- **Local Storage**: All data is saved locally in your browser - no account required
+This project is open‑source and released under the Apache License, Version 2.0. See the LICENSE file for the full terms. Developed and maintained by RentFree-software. Contributions, bug reports, and feature requests are welcome — please open an issue or pull request in the project repository. This software is provided "as is" without warranties or conditions of any kind (see the Apache 2.0 license for details).
 
 ## Technology Stack
 
